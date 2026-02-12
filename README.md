@@ -6,3 +6,7 @@ Ingeniería de sistemas que se encarga del diseño, desarrollo, implementación 
 - Matemáticas
 - Programación
 - Redes
+- Algoritmo
+- Logica
+- Computacion
+- Base de Datos
