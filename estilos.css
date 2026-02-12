@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 35px;
+    background-color: #C0C0C0;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #000080;
+}
+
+a {
+    text-decoration: none;
+    color: #008000;
+}
